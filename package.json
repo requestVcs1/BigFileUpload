@@ -7,7 +7,12 @@
     "build": "vue-cli-service build"
   },
   "dependencies": {
+    "@types/node": "^13.7.0",
     "core-js": "^3.4.4",
+    "element-ui": "^2.13.0",
+    "fs-extra": "^8.1.0",
+    "http": "^0.0.0",
+    "multiparty": "^4.2.1",
     "vue": "^2.6.10",
     "vue-class-component": "^7.0.2",
     "vue-property-decorator": "^8.3.0"
